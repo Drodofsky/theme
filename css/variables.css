@@ -132,10 +132,10 @@
 
 .navy {
     --bg: #282828;
-    --fg: #fbf1c7; 
+    --fg: #dfd9c5; 
 
     --sidebar-bg: #3c3836;
-    --sidebar-fg: #ebdbb2; 
+    --sidebar-fg: #c7bfab; 
     --sidebar-non-existant: #ff0000; 
     --sidebar-active: #d65d0e;
     --sidebar-spacer: #d65d0e; 
